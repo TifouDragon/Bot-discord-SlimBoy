@@ -1,1 +1,1 @@
-web: bash -c "python3 main.py"
+web: python3 main.py
